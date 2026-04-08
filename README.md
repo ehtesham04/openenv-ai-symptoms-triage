@@ -81,7 +81,7 @@ $env:HF_TOKEN="your_token_here"
 python baseline_inference.py
 
 # Linux/Mac
-export HF_TOKEN=your_token_here
+export HF_TOKEN="your_token_here"
 python baseline_inference.py
 ```
 
